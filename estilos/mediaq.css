@@ -41,6 +41,19 @@ TV (grandes telas) – 1201px
         font-size: 1.0em;
     
     }
+
+    form > input[type=submit] {
+        width: 25%;
+        background-color: rgb(169, 217, 201);
+        padding: 2px; 
+    
+    }
+    
+    form > input[type=reset] {
+        width: 25%;
+        background-color: rgb(169, 217, 201);       
+        padding: 2px;
+    }
     
 }
 
@@ -72,5 +85,18 @@ TV (grandes telas) – 1201px
     div#formulario > p {
         font-size: 1.2em;
     
+    }
+
+    form > input[type=submit] {
+        width: 25%;
+        background-color: rgb(169, 217, 201);
+        padding: 2px; 
+    
+    }
+    
+    form > input[type=reset] {
+        width: 25%;
+        background-color: rgb(169, 217, 201);       
+        padding: 2px;
     }
 }
